@@ -1,5 +1,5 @@
 # Obsidian-Vault-Mapper
-[CN]()
+[CN](README-zh.md)
 
 ---
 
