@@ -1,7 +1,6 @@
 # Obsidian-Vault-Mapper
-[zh-CN](README-zh.md)
+> [zh-CN](README-zh.md)
 
----
 ## Introduction
 - A PySide6-based GUI tool for Obsidian vault management featuring a GitHub Dark theme.
 
