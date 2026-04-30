@@ -9,6 +9,8 @@
 ## 原理
 - 只读解析 %APPDATA%/obsidian/obsidian.json 获取路径，不修改任何原始数据。分类配置本地持久化于 vault_master.json。
 
+## image
+- ![](image/image-20260430190632.jpg)
 
 # TODO
 
