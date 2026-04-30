@@ -9,6 +9,9 @@
 
 ## Technical Logic
 - Read-only parsing of %APPDATA%/obsidian/obsidian.json for indexing without modifying any original data. Stores categorization data in a local vault_master.json.
+## image
+
+- ![](image/image-20260430190632.jpg)
 
 # TODO
 
