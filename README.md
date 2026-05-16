@@ -1,5 +1,5 @@
 # Obsidian-Vault-Mapper
-> [zh-CN：图形化的 ob 仓库启动器，便于分类管理和打开仓库](README-zh.md)
+> 中文介绍：[zh-CN：图形化的 ob 仓库启动器，便于分类管理和打开仓库](README-zh.md)
 
 ## Introduction
 - A PySide6-based GUI tool for Obsidian vault management featuring a GitHub Dark theme.
